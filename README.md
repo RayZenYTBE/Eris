@@ -1,5 +1,9 @@
-# Welcome To EconomyBot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## This EconomyBot was written by 0_0#6666
+# Eris
+Eris is an easy to use Economy bot. It only took 5 minutes to have one beautiful economy bot! Written by [ZeroDiscord](https://github.com/ZeroDiscord), owned by [AtMostFear#7752](https://sites.google.com/view/atmostfeardevelopersite/).
+
+# Invite The Original One
+Invite Eris [here](https://discord.com/api/oauth2/authorize?client_id=865498311289339924&permissions=8&scope=bot)
+
 ### Language : JavaScript/NodeJS (Core Lang : EN)
 ##### Library : Discord.js
 ###### Framework used : quick.eco by Snowflake Development
@@ -9,7 +13,7 @@
 - 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
 - [Support Server Link](https://discord.gg/ARu4hr6hJw)
 # Copyright 
-Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
+Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks ~ ZeroSync
 
 # License
 **nginx 2021 all rights reserved**
@@ -32,9 +36,9 @@ MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IT WORKS ON REPL.IT PRETTY FINE ITS BEEN TESTED ALREADY``
 
 # Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/ZeroDiscord/EconomyBot)
+[![Use on Repl.it](https://repl.it/badge/github/RayZenYTBE/Eris)](https://repl.it/badge/github/RayZenYTBE/Eris)
 # Host On Glitch 
-[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/EconomyBot/)
+[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Eris)
 
 # Dependencies 
 - *Discord.js v12*
