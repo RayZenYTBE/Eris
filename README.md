@@ -10,8 +10,10 @@ Invite Eris [here](https://discord.com/api/oauth2/authorize?client_id=8654983112
 
 ##### IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!
 # Links
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+- 🔗 [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Support Server Link](https://discord.gg/6XSjbKBbJT)
+- [Host on Replit](https://replit.com/github/RayZenYTBE/Eris)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Eris)
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks ~ ZeroSync
 
@@ -35,10 +37,6 @@ DM ME FOR A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM  ME @0_0#6666
 MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IT WORKS ON REPL.IT PRETTY FINE ITS BEEN TESTED ALREADY``
 
-# Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/RayZenYTBE/Eris)](https://repl.it/badge/github/RayZenYTBE/Eris)
-# Host On Glitch 
-[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Eris)
 
 # Dependencies 
 - *Discord.js v12*
